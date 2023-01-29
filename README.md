@@ -1,6 +1,6 @@
 # Hentai ware
 
-- Nico Nextbots script.
+- Michael's Zombies script.
 # Information
 
 - [Discord](discord.gg/pfe48nR6p4)
